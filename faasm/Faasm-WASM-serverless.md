@@ -1,11 +1,11 @@
 ---
 title: Faasm / WASM serverless
 date: 2023-02-06 11:50:33
-tags:
 ---
 
 论文地址：https://arxiv.org/abs/2002.09344
 论文翻译：https://zhuanlan.zhihu.com/p/134152415
+
 
 ## 如何基于WASM设计一个serverless平台
 
